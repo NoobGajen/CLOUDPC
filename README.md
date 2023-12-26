@@ -49,7 +49,6 @@ winget install --id c0re100.qBittorrent-Enhanced-Edition
 
 - Ensure that you run these commands in an elevated PowerShell session (Run as Administrator).
 - The provided commands assume an internet connection to download and install the necessary components.
-```
 
 Feel free to copy and paste this content into your README.md file on GitHub. If you have any additional information to add or customize, you can do so within this template.
 
