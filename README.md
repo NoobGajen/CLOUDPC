@@ -17,4 +17,5 @@ winget install --id c0re100.qBittorrent-Enhanced-Edition
 
 ## Command to connect RDP by xfreerdp
 ```bash
-xfreerdp /u:runneradmin /p:'P@ssw0rd!@#$%' /dynamic-resolution /v:6.tcp.ngrok.io:19765```
+xfreerdp /u:runneradmin /p:'P@ssw0rd!@#$%' /dynamic-resolution /v:6.tcp.ngrok.io:19765
+```
