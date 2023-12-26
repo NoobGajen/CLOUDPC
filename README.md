@@ -2,7 +2,7 @@ Certainly! Here's a README.md file for your GitHub repository with all the comma
 
 ## Installation Steps
 
-1. Install Chocolatey using the following command:
+1. Install Kotatogram and qBittorrent by using winget after getting RDP access:
 
 ```Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
